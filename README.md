@@ -19,16 +19,14 @@ Aqui estão algumas das principais telas da aplicação:
 | :---: | :---: |
 | ![Detalhes](assets/images/detalhes.png) | ![Sobre](assets/images/sobre.png) |
 
-## Instruções de Execução
+## 🚀 Instruções de Execução
 
-1. Install dependencies
-
+1. **Instale as dependências**
    ```bash
    npm install
    ```
 
-2. Start the app
-
+2. **Inicie o aplicativo**
    ```bash
    npx expo start
    ```
